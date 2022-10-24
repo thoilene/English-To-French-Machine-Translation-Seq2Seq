@@ -12,18 +12,14 @@ The Seq2Seq (sequence to sequence) with RNN is used for this task as an improvem
 
 The RNN architecture choosen for the model is the sequence to sequence architecture
 
-![Many-to-One](/data/many-to-one.jpg)
+![Seq2seq](/data/RNN_seq2seq.JPG)
 
 
-### Single LSTM Neural Network
+### Seq2seq LSTM Neural Network
 
-![Single Model Image 1](/data/tweets_single_1.JPG)
-![Single Model Image 2](/data/tweets_single_2.JPG)
+![Seq2seq Model](/data/seq2seq_model.JPG)
+![Seq2seq Model 2](/data/seq2seq_model_2.JPG)
 
-### Bidirectional LSTM Neural Network
-
-![Bidirect Model Image 1](/data/tweets_bidirect_1.JPG)
-![Bidirect Model Image 2](/data/tweets_bidirect_2.JPG)
 
 ## Results
 
